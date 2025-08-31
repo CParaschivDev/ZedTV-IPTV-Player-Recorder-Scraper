@@ -64,6 +64,15 @@ This project is licensed under the [MIT License](LICENSE).
 Feel free to report issues or suggest improvements in the [issues section](https://github.com/yourusername/iptv-scraper-player/issues).
 
 ---
+## Quickstart
+
+How to change default country to RO: Go to Settings -> Configure, change the Default Country field to "RO", and click Save.
+
+Where config file lives: On Unix-like systems: ~/.zedtv/config.json. On Windows: %USERPROFILE%\.zedtv\config.json.
+
+How to open an M3U: From the menu, select File -> Open, then choose your M3U file.
+
+---
 
 ### Disclaimer
 This tool is intended for personal use only. The creators are not responsible for any misuse of the application.
